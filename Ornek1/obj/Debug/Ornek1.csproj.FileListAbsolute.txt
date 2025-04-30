@@ -1,0 +1,10 @@
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\bin\Debug\Ornek1.exe.config
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\bin\Debug\Ornek1.exe
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\bin\Debug\Ornek1.pdb
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\obj\Debug\Ornek1.Form1.resources
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\obj\Debug\Ornek1.Properties.Resources.resources
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\obj\Debug\Ornek1.exe
+C:\Users\icoba\source\repos\20250222\Ornek1\Ornek1\obj\Debug\Ornek1.pdb
